@@ -1,5 +1,5 @@
 # DSAforDataScience
-This repository contains all DSA concepts for Data Science starting from OOPS.  
+This repository contains all DSA concepts/resources for Data Science starting from OOPS.  
 
 # README
 
