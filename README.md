@@ -70,4 +70,4 @@ Open [`oops_python.ipynb`](oops_python.ipynb) in Jupyter Notebook or Visual Stud
 
 ---
 
-Feel free to modify or extend the notebook for
+Feel free to modify or extend the notebook for your own learning or interview preparation. Contributions and suggestions are welcome!
