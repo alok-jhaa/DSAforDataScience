@@ -6,7 +6,7 @@ This repository contains resources and notes for Data Structures and Algorithms 
 
 ## oops_python.ipynb
 
-This Jupyter notebook provides a comprehensive introduction to Object-Oriented Programming (OOP) concepts in Python, with explanations, analogies, and practical code examples.
+This Jupyter notebook provides a comprehensive introduction to Object-Oriented Programming (OOP) concepts in Python, with explanations, analogies, and practical code examples..
 
 ### Topics Covered
 
