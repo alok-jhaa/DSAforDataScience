@@ -1,6 +1,6 @@
 # DSAforDataScience
 
-This repository contains resources and notes for Data Structures and Algorithms (DSA) for Data Science, starting from Object-Oriented Programming (OOPS) in Python.
+The repository contains resources and notes for Data Structures and Algorithms (DSA) for Data Science, starting from Object-Oriented Programming (OOPS) in Python.
 
 ---
 
